@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="index.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript</title>
+    
+    <script>
+        body_element = document.getElementsByName("body");
+        console.log(body_element);
+        body_element.onload(window.alert("Alerta"));
+        
+        function alerta_clique(){
+            window.alert('Cliquei no botão')
+        }
+
+        function let_var(){
+            if(true){
+                var sobrenome = "Silva";
+                let nome = "Eduardo Silva";
+                console.log(nome);
+            }    
+        }
+        
+    </script>
+</head>
+<body>
+    <main>
+        <button type="button" onclick="window.alert('Cliquei no botão')">Alert</button>
+        <button type="button" onclick="alerta_clique()">Alert method</button>
+        <button type="button" onclick="alerta_externo()">Alert mehtod externo</button>
+    </main>
+</body>
+</html>
