@@ -1,0 +1,16 @@
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\bin\Debug\net5.0\calculador_dotenet.exe
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\bin\Debug\net5.0\calculador_dotenet.deps.json
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\bin\Debug\net5.0\calculador_dotenet.runtimeconfig.json
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\bin\Debug\net5.0\calculador_dotenet.runtimeconfig.dev.json
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\bin\Debug\net5.0\calculador_dotenet.dll
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\bin\Debug\net5.0\ref\calculador_dotenet.dll
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\bin\Debug\net5.0\calculador_dotenet.pdb
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.dll
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\ref\calculador_dotenet.dll
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.pdb
+C:\Users\HOME\Desktop\Git\Aula 8 - doNet\Visual Studio\calculador_dotenet\calculador_dotenet\obj\Debug\net5.0\calculador_dotenet.genruntimeconfig.cache
